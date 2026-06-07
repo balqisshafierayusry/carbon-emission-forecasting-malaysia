@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large or sensitive files
+*.zip
+*.rar
+*.7z
+
+# Optional: uncomment if model file is too large for GitHub
+# *.pkl
+# *.joblib
+
+# Optional: uncomment if dashboard file is too large
+# *.pbix
