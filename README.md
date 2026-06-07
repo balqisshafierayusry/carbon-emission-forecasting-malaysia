@@ -103,7 +103,6 @@ Model performance is evaluated using:
 - Root Mean Squared Error (RMSE)
 - Mean Absolute Error (MAE)
 - Mean Absolute Percentage Error (MAPE)
-- Coefficient of Determination (R²)
 
 ## Scenario Analysis
 
