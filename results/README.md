@@ -2,7 +2,7 @@
 
 Store output files generated from model evaluation and forecasting.
 
-Suggested files:
+Files:
 
 ```text
 model_performance.csv
