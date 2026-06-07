@@ -1,8 +1,6 @@
 # Data Folder
 
-Place project datasets in this folder.
-
-Suggested structure:
+Structure:
 
 ```text
 data/
